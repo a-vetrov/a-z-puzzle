@@ -1,0 +1,114 @@
+<items>
+    <item word="АРБУЗ" img="img/watermelon.jpg" mp3="mp3/objects/arbuz.mp3"/>
+    <item word="БАРАН" img="img/ram.jpg" mp3="mp3/objects/baran.mp3"/>
+    <item word = "БУБЛИК" img = "img/bublik.jpg" mp3 = "mp3/objects/bublik.mp3" />
+    <item word="ВЕНИК" img="img/venik.jpg" mp3="mp3/objects/venik.mp3"/>
+    <item word = "ГРИБ" img = "img/mashroom.jpg" mp3 = "mp3/objects/mashroom.mp3" />
+    <item word = "ГУСЬ" img = "img/goose.jpg" mp3 = "mp3/objects/goose.mp3" />
+    <item word = "ДОМ" img = "img/haus.jpg" mp3 = "mp3/objects/home.mp3" />
+    <item word = "ДИВАН" img = "img/divan.jpg" mp3 = "mp3/objects/divan.mp3" />
+    <item word = "ЕНОТ" img = "img/enot.jpg" mp3 = "mp3/objects/enot.mp3" />
+    <item word = "ЁЖИК" img = "img/ezh.jpg" mp3 = "mp3/objects/ezh.mp3" />
+    <item word = "ЗАЯЦ" img = "img/zayac.jpg" mp3 = "mp3/objects/zayac.mp3" />
+    <item word = "ИГЛА" img = "img/igla.jpg" mp3 = "mp3/objects/igla.mp3" />
+    <item word = "КОРОВА" img = "img/caw.jpg" mp3 = "mp3/objects/caw.mp3" />
+    <item word = "КОЗЁЛ" img = "img/kozel.jpg" mp3 = "mp3/objects/kozel.mp3" />
+    <item word="КИВИ" img="img/kiwi.jpg" mp3="mp3/objects/kiwi.mp3"/>
+    <item word="ЛОДКА" img="img/boat.jpg" mp3="mp3/objects/boat.mp3"/>
+    <item word="ЛИСТ" img="img/leaf.jpg" mp3="mp3/objects/leaf.mp3"/>
+    <item word="ЛЕВ" img="img/lion.jpg" mp3="mp3/objects/lion.mp3"/>
+    <item word="ЛИМОН" img="img/lemon.jpg" mp3="mp3/objects/lemon.mp3"/>
+    <item word="МАЛИНА" img="img/malina.jpg" mp3="mp3/objects/malina.mp3"/>
+    <item word="МУХА" img="img/fly.jpg" mp3="mp3/objects/fly.mp3"/>
+    <item word="ОСЁЛ" img="img/osel.jpg" mp3="mp3/objects/osel.mp3"/>
+    <item word="ОРЁЛ" img="img/orel.jpg" mp3="mp3/objects/orel.mp3"/>
+    <item word="ОКНО" img="img/okno.jpg" mp3="mp3/objects/window.mp3"/>
+    <item word="ОЛЕНЬ" img="img/olen.jpg" mp3="mp3/objects/olen.mp3"/>
+    <item word="ПАНДА" img="img/panda.jpg" mp3="mp3/objects/panda.mp3"/>
+    <item word="РОЗА" img="img/rose.jpg" mp3="mp3/objects/rose.mp3"/>
+    <item word="СТУЛ" img="img/stul.jpg" mp3="mp3/objects/stul.mp3"/>
+    <item word="СТОЛ" img="img/stol.jpg" mp3="mp3/objects/stol.mp3"/>
+    <item word="ТАНК" img="img/tank.jpg" mp3="mp3/objects/tank.mp3"/>
+    <item word="ТЫКВА" img="img/pump.jpg" mp3="mp3/objects/pump.mp3"/>
+    <item word="ТОРТ" img="img/tort.jpg" mp3="mp3/objects/tort.mp3"/>
+    <item word="УТКА" img="img/utka.jpg" mp3="mp3/objects/utka.mp3"/>
+    <item word="УТЮГ" img="img/utug.jpg" mp3="mp3/objects/iron.mp3"/>
+    <item word="ФЛАГ" img="img/flag.jpg" mp3="mp3/objects/flag.mp3"/>
+    <item word="ХОМЯК" img="img/homyak.jpg" mp3="mp3/objects/homak.mp3"/>
+    <item word="ХЛЕБ" img="img/bread.jpg" mp3="mp3/objects/bread.mp3"/>
+    <item word="ЦИРК" img="img/cyrkus.jpg" mp3="mp3/objects/curcus.mp3"/>
+    <item word="ЦЕПЬ" img="img/cep.jpg" mp3="mp3/objects/cep.mp3"/>
+    <item word="ШАПКА" img="img/shapka.jpg" mp3="mp3/objects/shapka.mp3"/>
+    <item word="ШАРФ" img="img/sharf.jpg" mp3="mp3/objects/sharf.mp3"/>
+    <item word="ЩУКА" img="img/chuka.jpg" mp3="mp3/objects/chuka.mp3"/>
+    <item word="ЩЕНОК" img="img/chen.jpg" mp3="mp3/objects/chenok.mp3"/>
+    <item word="ЮЛА" img="img/ula.jpg" mp3="mp3/objects/ula.mp3"/>
+    <item word="ШОССЕ" img="img/shosse.jpg" mp3="mp3/objects/shosse.mp3"/>
+    <item word="ЧАШКА" img="img/cup.jpg" mp3="mp3/objects/cup.mp3"/>
+    <item word="ЧАСЫ" img="img/clock.jpg" mp3="mp3/objects/clock.mp3"/>
+    <item word="ЦВЕТОК" img="img/flower.jpg" mp3="mp3/objects/cvetok.mp3"/>
+    <item word="ЦАПЛЯ" img="img/caplya.jpg" mp3="mp3/objects/capla.mp3"/>
+    <item word="ФОНТАН" img="img/fontan.jpg" mp3="mp3/objects/fontan.mp3"/>
+    <item word="ТОПОР" img="img/topor.jpg" mp3="mp3/objects/topor.mp3"/>
+    <item word="СЛИВА" img="img/sliva.jpg" mp3="mp3/objects/sliva.mp3"/>
+    <item word="САПОГ" img="img/sapog.jpg" mp3="mp3/objects/sapog.mp3"/>
+    <item word="СОРОКА" img="img/soroka.jpg" mp3="mp3/objects/soroka.mp3"/>
+    <item word="СОБАКА" img="img/dog.jpg" mp3="mp3/objects/dog.mp3"/>
+    <item word="РУЧКА" img="img/pen.jpg" mp3="mp3/objects/ruchka.mp3"/>
+    <item word="РЕКА" img="img/river.jpg" mp3="mp3/objects/river.mp3"/>
+    <item word="РЕПКА" img="img/repa.jpg" mp3="mp3/objects/repa.mp3"/>
+    <item word="ПЕРЕЦ" img="img/perec.jpg" mp3="mp3/objects/pepper.mp3"/>
+    <item word="ПЕРСИК" img="img/peach.jpg" mp3="mp3/objects/persik.mp3"/>
+    <item word="ОРЕХ" img="img/orex.jpg" mp3="mp3/objects/oreh.mp3"/>
+    <item word="МАШИНА" img="img/zil.jpg" mp3="mp3/objects/mashina.mp3"/>
+    <item word="МОЛОКО" img="img/milk.jpg" mp3="mp3/objects/milk.mp3"/>
+    <item word="ЛОПАТА" img="img/lopata.jpg" mp3="mp3/objects/lopata.mp3"/>
+    <item word="КРОЛИК" img="img/krol.jpg" mp3="mp3/objects/krol.mp3"/>
+    <item word="КОШКА" img="img/cat.jpg" mp3="mp3/objects/cat.mp3"/>
+    <item word="КНИГА" img="img/book.jpg" mp3="mp3/objects/book.mp3"/>
+    <item word="ЗАМОК" img="img/zamok.jpg" mp3="mp3/objects/zamok.mp3"/>
+    <item word="ЖУК" img="img/zhuk.jpg" mp3="mp3/objects/zhuk.mp3"/>
+    <item word="ЗЕБРА" img="img/zebra.jpg" mp3="mp3/objects/zebra.mp3"/>
+    <item word="ЖАБА" img="img/zhaba.jpg" mp3="mp3/objects/zhaba.mp3"/>
+    <item word="ДЯТЕЛ" img="img/dyatel.jpg" mp3="mp3/objects/dyatel.mp3"/>
+    <item word="ДЫНЯ" img="img/melone.jpg" mp3="mp3/objects/melone.mp3"/>
+    <item word="ГОРОХ" img="img/goroh.jpg" mp3="mp3/objects/goroh.mp3"/>
+    <item word="ВОРОНА" img="img/vorona.jpg" mp3="mp3/objects/vorona.mp3"/>
+    <item word="БЕЛКА" img="img/belka.jpg" mp3="mp3/objects/belka.mp3"/>
+    <item word="БАНАН" img="img/banana.jpg" mp3="mp3/objects/banana.mp3"/>
+    <item word="АНАНАС" img="img/pineapple.jpg" mp3="mp3/objects/ananas.mp3"/>
+    <item word="ЯБЛОКО" img="img/apple.jpg" mp3="mp3/objects/apple.mp3"/>
+    <letter value="А" mp3="mp3/letters/a.mp3"/>
+    <letter value="Б" mp3="mp3/letters/b.mp3"/>
+    <letter value="В" mp3="mp3/letters/v.mp3"/>
+    <letter value="Г" mp3="mp3/letters/g.mp3"/>
+    <letter value="Д" mp3="mp3/letters/d.mp3"/>
+    <letter value="Е" mp3="mp3/letters/ye.mp3"/>
+    <letter value="Ё" mp3="mp3/letters/yo.mp3"/>
+    <letter value="Ж" mp3="mp3/letters/zh.mp3"/>
+    <letter value="З" mp3="mp3/letters/z.mp3"/>
+    <letter value="И" mp3="mp3/letters/i.mp3"/>
+    <letter value="Й" mp3="mp3/letters/ii.mp3"/>
+    <letter value="К" mp3="mp3/letters/k.mp3"/>
+    <letter value="Л" mp3="mp3/letters/l.mp3"/>
+    <letter value="М" mp3="mp3/letters/m.mp3"/>
+    <letter value="Н" mp3="mp3/letters/n.mp3"/>
+    <letter value="О" mp3="mp3/letters/o.mp3"/>
+    <letter value="П" mp3="mp3/letters/p.mp3"/>
+    <letter value="Р" mp3="mp3/letters/r.mp3"/>
+    <letter value="С" mp3="mp3/letters/s.mp3"/>
+    <letter value="Т" mp3="mp3/letters/t.mp3"/>
+    <letter value="У" mp3="mp3/letters/u.mp3"/>
+    <letter value="Ф" mp3="mp3/letters/f.mp3"/>
+    <letter value="Х" mp3="mp3/letters/h.mp3"/>
+    <letter value="Ц" mp3="mp3/letters/c.mp3"/>
+    <letter value="Ч" mp3="mp3/letters/ch.mp3"/>
+    <letter value="Ш" mp3="mp3/letters/sh.mp3"/>
+    <letter value="Щ" mp3="mp3/letters/sch.mp3"/>
+    <letter value="Ъ" mp3="mp3/letters/tv.mp3"/>
+    <letter value="Ь" mp3="mp3/letters/mz.mp3"/>
+    <letter value="Ы" mp3="mp3/letters/yy.mp3"/>
+    <letter value="Э" mp3="mp3/letters/ee.mp3"/>
+    <letter value="Ю" mp3="mp3/letters/yu.mp3"/>
+    <letter value="Я" mp3="mp3/letters/ya.mp3"/>
+</items>
